@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="recipeType">
+        <item>Breads, Muffins, &amp; Scones</item>
+        <item>Breakfast</item>
+        <item>Desserts</item>
+        <item>Dinner</item>
+        <item>Dips, Salad Dressings, Salsas, and Sauces</item>
+        <item>Drinks</item>
+        <item>Lunch</item>
+        <item>Main Courses</item>
+        <item>One Pot Meal</item>
+        <item>Pancakes and Toppings</item>
+        <item>Pizza</item>
+        <item>Quesadillas and Sandwiches</item>
+        <item>Salads</item>
+        <item>Side Dishes</item>
+        <item>Snacks</item>
+        <item>Soups, Stews &amp; Chili</item>
+    </string-array>
+
+    <string-array name="recipeTypeFilter">
+        <item>All Category</item>
+        <item>Breads, Muffins, &amp; Scones</item>
+        <item>Breakfast</item>
+        <item>Desserts</item>
+        <item>Dinner</item>
+        <item>Dips, Salad Dressings, Salsas, and Sauces</item>
+        <item>Drinks</item>
+        <item>Lunch</item>
+        <item>Main Courses</item>
+        <item>One Pot Meal</item>
+        <item>Pancakes and Toppings</item>
+        <item>Pizza</item>
+        <item>Quesadillas and Sandwiches</item>
+        <item>Salads</item>
+        <item>Side Dishes</item>
+        <item>Snacks</item>
+        <item>Soups, Stews &amp; Chili</item>
+    </string-array>
+
+</resources>
